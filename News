@@ -1,3 +1,5 @@
 [
-{"Header":"Titutlo de Noticia Uno","Body":"Body de Noticia Uno","URL":"http://www.bing.com","WeekNumber":1,"LastUploadedDate":"3/1/2019"}
+{"Header":"Titutlo de Noticia Uno","Body":"Body de Noticia Uno","URL":"http://www.bing.com","WeekNumber":1},
+{"Header":"Titutlo de Noticia Dos","Body":"Body de Noticia Dos","URL":"http://www.bing.com","WeekNumber":2},
+{"Header":"Titutlo de Noticia Tres","Body":"Body de Noticia Tres","URL":"http://www.bing.com","WeekNumber":3}
 ]
