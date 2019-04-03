@@ -1,5 +1,5 @@
 [
-{"Header":"Sabias Que...","Body":"Tips...","URL":"http://www.bing.com","Tip":"Y"},
+{"Header":"Sabias Que...","Body":"Tips...","URL":"http://www.bing.com","Tip":"Y","WeekNumber":1},
 {"Header":"Titulo para todos...","Body":"Siempre aparece en todas las semanas...","URL":"http://www.bing.com","WeekNumber":0},    
 {"Header":"Titulo de Noticia Uno","Body":"Body de Noticia Uno","URL":"http://www.bing.com","WeekNumber":1},
 {"Header":"Titulo de Noticia Dos","Body":"Body de Noticia Dos","URL":"http://www.bing.com","WeekNumber":2},
